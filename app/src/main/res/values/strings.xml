@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChatSocket</string>
+    <string name="username">Input your username</string>
+    <string name="password">Input your password</string>
+    <string name="signin">SIGN IN</string>
+</resources>
